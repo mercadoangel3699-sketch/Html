@@ -1,0 +1,31 @@
+body {
+    background-color: purple;
+    text-align: center;
+    font-family: Arial;
+}
+
+img {
+    width: 70px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.card {
+    background-color: white;
+    width: 100px;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.card h3 {
+    color: purple;
+}
+
+.card p {
+    color: black;
+}
+
+audio, video {
+    width: 70%;
+}
